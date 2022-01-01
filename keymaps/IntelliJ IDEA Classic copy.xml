@@ -1,0 +1,6 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="ActivateStructureToolWindow" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+</keymap>
